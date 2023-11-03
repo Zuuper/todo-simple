@@ -1,4 +1,9 @@
 # TODO SIMPLE
+Simple todo list assessment
+daftar fitur :
+- CRUD (disimpan di local storage)
+- state management REDUX
+- responsive design
 
 - Mobile
 
